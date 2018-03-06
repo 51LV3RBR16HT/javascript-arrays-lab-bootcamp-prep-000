@@ -27,11 +27,6 @@ function prependKitten(Meowington) {
   return [Meowington, ...kittens];
 }
 
-function removeLastKitten(Kitty) {
-  kittens.slice();
-  return Kitty
-}
-
-
-
+function removeLastKitten() {
+  
 }
