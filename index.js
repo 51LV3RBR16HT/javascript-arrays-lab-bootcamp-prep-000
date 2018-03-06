@@ -6,5 +6,5 @@ function destructivelyAppendKitten(Buttons) {
 }
 
 function destructivelyPrependKitten(Fluffy) {
-  
+  kittens.unshift(Fluffy)
 }
