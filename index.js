@@ -20,9 +20,5 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(Scratches) {
-  return [...kittens]
+  return [...kittens, Scratches]
 }
-
-
-
-
