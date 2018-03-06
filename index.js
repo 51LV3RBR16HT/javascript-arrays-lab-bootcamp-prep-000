@@ -5,6 +5,8 @@ function destructivelyAppendKitten(Buttons) {
   return Buttons
 }
 
-function 
+function destructivelyPrependKitten(Fluffy) {
+  
+}
 
 
