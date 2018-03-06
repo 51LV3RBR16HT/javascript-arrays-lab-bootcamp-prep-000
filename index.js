@@ -20,12 +20,9 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(Scratches) {
-  return [...kittens, Scratches]
+  return [...kittens, Scratches];
 }
 
 function prependKitten(Meowington) {
-  return [kittens, ...Meowington]
-  
-  
-  
+  return [kittens, ...Meowington];
 }
