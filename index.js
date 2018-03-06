@@ -28,5 +28,5 @@ function prependKitten(Meowington) {
 }
 
 function removeLastKitten() {
-  var newArray = kittens.slice();
+  return kittens.slice(0, kittens.length-1);
 }
