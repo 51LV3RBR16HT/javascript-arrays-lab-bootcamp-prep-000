@@ -2,11 +2,7 @@ const app = "I don't do much."
 
 function destructivelyAppendKitten(Buttons) {
   kittens.push(Buttons);
-  return Buttons
-}
+  return kittens
 
-function destructivelyPrependKitten(Fluffy) {
-  
-}
 
 
