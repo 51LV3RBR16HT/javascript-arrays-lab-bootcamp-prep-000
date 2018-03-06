@@ -20,7 +20,8 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(Scratches) {
-  
+  kittens.appendKitten();
 }
+
 
 
