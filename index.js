@@ -27,4 +27,6 @@ function prependKitten(Meowington) {
   return [Meowington, ...kittens];
 }
 
-function 
+function removeLastKitten() {
+  return []
+}
