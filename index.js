@@ -10,6 +10,6 @@ function destructivelyPrependKitten(Fluffy) {
 }
 
 function destructivelyRemoveLastKitten() {
-  kittens.pop()
-  
+  kittens.pop();
+  return kittens
 }
