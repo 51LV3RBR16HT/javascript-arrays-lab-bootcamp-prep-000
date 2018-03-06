@@ -24,5 +24,6 @@ function appendKitten(Scratches) {
 }
 
 function prependKitten(Meowington) {
-  return [...Meowington, kittens];
+  return [Meowington, ...kittens];
 }
+
