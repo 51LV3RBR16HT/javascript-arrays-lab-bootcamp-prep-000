@@ -9,3 +9,4 @@ function destructivelyPrependKitten(Fluffy) {
   kittens.unshift(Fluffy)
 }
 
+function destructivelyRemoveLastKitten()
