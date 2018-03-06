@@ -28,5 +28,8 @@ function prependKitten(Meowington) {
 }
 
 function removeLastKitten() {
-  return Starbar.slice(0, Starbar.length -1)
+  kittens.slice(0, length -1);
+}
+
+
 }
