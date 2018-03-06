@@ -23,4 +23,9 @@ function appendKitten(Scratches) {
   return [...kittens, Scratches]
 }
 
-function
+function prependKitten(Meowington) {
+  return [kittens, ...Meowington]
+  
+  
+  
+}
