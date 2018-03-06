@@ -20,7 +20,6 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(Scratches) {
-  return
 }
 
 
