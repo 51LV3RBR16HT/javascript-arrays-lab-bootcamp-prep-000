@@ -20,6 +20,7 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(Scratches) {
+  return [...kittens]
 }
 
 
