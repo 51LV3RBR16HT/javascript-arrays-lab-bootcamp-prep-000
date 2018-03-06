@@ -9,4 +9,7 @@ function destructivelyPrependKitten(Fluffy) {
   kittens.unshift(Fluffy)
 }
 
-function destructivelyRemoveLastKitten()
+function destructivelyRemoveLastKitten() {
+  kittens.pop()
+  
+}
